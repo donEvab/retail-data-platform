@@ -1,0 +1,9 @@
+payment_id,order_id,payment_date,payment_method,amount
+PAY001,O001,2026-01-03,bank_transfer,300000
+PAY002,O002,2026-01-04,credit_card,450000
+PAY003,O003,2026-01-10,e_wallet,1250000
+PAY004,O004,2026-01-15,credit_card,0
+PAY005,O005,2026-02-01,e_wallet,250000
+PAY006,O006,2026-02-14,bank_transfer,300000
+PAY007,O007,2026-02-20,e_wallet,300000
+PAY008,O008,2026-03-02,credit_card,675000

@@ -3,7 +3,6 @@ __pycache__/
 .env
 .venv/
 data/raw/
-data/sample/
 *.db
 target/
 dbt_package/

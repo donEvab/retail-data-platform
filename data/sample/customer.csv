@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city,registered_date
+C001,Andi Pratama,andi@example.com,Bandung,2025-01-10
+C002,Sari Wijaya,sari@example.com,Jakarta,2025-01-15
+C003,Budi Santoso,budi@example.com,Surabaya,2025-02-01
+C004,Dina Lestari,dina@example.com,Bandung,2025-02-20
+C005,Raka Putra,raka@example.com,Yogyakarta,2025-03-05
